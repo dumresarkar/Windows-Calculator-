@@ -1,0 +1,17 @@
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\bin\Debug\net6.0-windows\Calculator_Project.exe
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\bin\Debug\net6.0-windows\Calculator_Project.deps.json
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\bin\Debug\net6.0-windows\Calculator_Project.runtimeconfig.json
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\bin\Debug\net6.0-windows\Calculator_Project.dll
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\bin\Debug\net6.0-windows\Calculator_Project.pdb
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\obj\Debug\net6.0-windows\Calculator_Project.csproj.AssemblyReference.cache
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\obj\Debug\net6.0-windows\Calculator_Project.Form1.resources
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\obj\Debug\net6.0-windows\Calculator_Project.csproj.GenerateResource.cache
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\obj\Debug\net6.0-windows\Calculator_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\obj\Debug\net6.0-windows\Calculator_Project.AssemblyInfoInputs.cache
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\obj\Debug\net6.0-windows\Calculator_Project.AssemblyInfo.cs
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\obj\Debug\net6.0-windows\Calculator_Project.csproj.CoreCompileInputs.cache
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\obj\Debug\net6.0-windows\Calculator_Project.dll
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\obj\Debug\net6.0-windows\refint\Calculator_Project.dll
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\obj\Debug\net6.0-windows\Calculator_Project.pdb
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\obj\Debug\net6.0-windows\Calculator_Project.genruntimeconfig.cache
+C:\Users\Sabin Dumre\Desktop\windows application\Calculator_Project\Calculator_Project\obj\Debug\net6.0-windows\ref\Calculator_Project.dll
